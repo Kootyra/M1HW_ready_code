@@ -14,7 +14,7 @@
 ### Тесты с использованием Pytest
 Мы написали тесты для автоматической проверки кода на соответствие требованиям:
 -   `test_gamer_has_attributesn`: Проверяем, что в классе "Gamer" все еще есть атрибуты "name" и "age".
--   `test_gamer_has_attributes_nickaname`: Проверяем, что в классе "Gamer" появился атрибут "nickaname".
+-   `test_gamer_has_attributes_nickname`: Проверяем, что в классе "Gamer" появился атрибут "nickname".
 -   `test_gamer_has_attributes_email`: Проверяем, что в классе "Gamer" появился атрибут "email".
 -   `test_introduce`: Тестирует выведение информации для минипрезентации геймера.
 
